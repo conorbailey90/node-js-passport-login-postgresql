@@ -1,0 +1,13 @@
+Create table users (
+	id BIGSERIAL PRIMARY KEY NOT NULL,
+	name VARCHAR(200) NOT NULL,
+	email VARCHAR(200) NOT NULL,
+	password VARCHAR(200) NOT NULL,
+	UNIQUE (email)
+);
+
+select * from users;
+
+https://www.youtube.com/watch?v=vxu1RrR0vbw
+
+

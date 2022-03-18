@@ -1,7 +1,6 @@
 {
   "name": "node_login",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -22,5 +21,15 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conorbailey90/node-js-passport-login-postgresql.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/conorbailey90/node-js-passport-login-postgresql/issues"
+  },
+  "homepage": "https://github.com/conorbailey90/node-js-passport-login-postgresql#readme",
+  "description": ""
 }
